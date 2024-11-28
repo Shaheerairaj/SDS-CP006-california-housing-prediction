@@ -38,4 +38,4 @@ The model will help real estate agents and buyers by providing accurate price pr
 
 **Deployment**
 - Building a streamlit app that takes inputs like bedrooms, bathrooms, livingArea, and predicts the housing price.
-- Deploying the application to a cloud platform (e.g. AWS)
+- Deploying the application to a cloud platform (e.g. AWS/streamlit)
